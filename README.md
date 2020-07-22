@@ -1,4 +1,4 @@
-<h1 align="center">TBomb v1.7b</h1>
+<h1 align="center">TBomb</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
 ## Note:
@@ -140,6 +140,9 @@ sudo bash TBomb.sh
 - **scpketer**<br>
 [-] Mail At: scpketer@protonmail.ch
 
+- **H420**<br>
+[-] FB :-https://www.facebook.com/prajyot.karkade.7/
+
 
 ## Donators:
 
@@ -155,7 +158,5 @@ Feel free to open a issue if you have seen any.
                  Mail: ggspeedx29@gmail.com<br>
        YouTube Channel: https://www.youtube.com/c/GyanaTech
 ```
-
-<a href="https://www.youtube.com/c/GyanaTech">Check Out My YouTube Channel</a>
 
 <!-- L3yvMKWbLJAermqvZT1vKmDkGwqsZmD1rK0= -->
