@@ -1,7 +1,7 @@
 <h1 align="center">TBomb</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
-## Note:THIS SCRIPT IS MODIFIED BY H420 AND CREATED BY TheSpeedX
+## Note: THIS SCRIPT IS MODIFIED BY H420 AND CREATED BY TheSpeedX
 
 Due misusing of TBomb, several API's died. 
 Don't be afraid if you don't see all send messages.
