@@ -1,4 +1,4 @@
-<h1 align="center">TBomb</h1>
+<h1 align="center">Bomber</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
 ## Note: THIS SCRIPT IS MODIFIED BY H420 AND CREATED BY TheSpeedX
